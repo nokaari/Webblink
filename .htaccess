@@ -1,0 +1,7 @@
+# SpaceWeb
+<Files wp-login.php>
+order deny,allow
+deny from all
+#allow from My_IP
+</files>
+
